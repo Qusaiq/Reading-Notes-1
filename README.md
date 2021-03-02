@@ -7,5 +7,7 @@
 * Emphasis
 * Links
 > GitHub.com uses its own version of the Markdown syntax
+
 https://guides.github.com/features/mastering-markdown/
+
 ![GitHub logo](http://pngimg.com/uploads/github/github_PNG40.png)
