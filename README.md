@@ -1,13 +1,17 @@
 # Lab-02a
-## Markdown
-###### Markdown is a lightweight and easy-to-use syntax for styling all forms of writing on the GitHub platform.
-**You can use Markdown most places around GitHub**
-###### Some of the Markdown Syntax that can be used on GitHub:
-* Headers 
-* Emphasis
-* Links
-> GitHub.com uses its own version of the Markdown syntax
+## About me:
+###### I am Mohammad Alswaiti I graduated as a civil engineer from Turkey 
+my goal is to work in one of the leading IT engineering companies. 
 
-https://guides.github.com/features/mastering-markdown/
+**GitHub prof https://github.com/MohammadAlswaiti**
 
-![GitHub logo](http://pngimg.com/uploads/github/github_PNG40.png)
+> A growth Mindset is a description used to describe the people who believe that their success depends on the time and the effort they pay.
+
+###### Ways that keep my mindset develop:
+* Ways that keep my mindset develop  
+* Try different learning tactics
+* View challenges as opportunities
+
+https://www.renaissance.com/edwords/growth-mindset/
+
+![Growth Mindset](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRbYciCljk7tWmY-g8J-P4vvlxP137g9kAAQ&usqp=CAU)
