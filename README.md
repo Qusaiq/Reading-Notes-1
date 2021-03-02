@@ -7,8 +7,8 @@ my goal is to work in one of the leading IT engineering companies.
 
 > A growth Mindset is a description used to describe the people who believe that their success depends on the time and the effort they pay.
 
-###### Ways that keep my mindset develop:
-* Ways that keep my mindset develop  
+## Ways that keep my mindset develop:
+* Acknowledge and embrace imperfections
 * Try different learning tactics
 * View challenges as opportunities
 
