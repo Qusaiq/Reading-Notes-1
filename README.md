@@ -14,3 +14,6 @@
 https://www.renaissance.com/edwords/growth-mindset/
 
 ![Growth Mindset](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRbYciCljk7tWmY-g8J-P4vvlxP137g9kAAQ&usqp=CAU)
+
+
+##### this is a comment to test pushing to the main repo 
