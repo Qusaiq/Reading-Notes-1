@@ -1,7 +1,6 @@
 # Lab-02a
 ## About me:
-###### I am Mohammad Alswaiti I graduated as a civil engineer from Turkey 
-my goal is to work in one of the leading IT engineering companies. 
+###### I am Mohammad Alswaiti I graduated as a civil engineer from Turkey. My goal is to work in one of the leading IT engineering companies. 
 
 **GitHub prof https://github.com/MohammadAlswaiti**
 
